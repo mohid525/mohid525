@@ -1,6 +1,6 @@
 <!-- 💙 All-Blue Gradient Welcome Banner -->
 <p align="center">
-  <img src="https://github.com/mohid525/mohid525/blob/main/github-header-banner.png" alt="GitHub Header Banner" />
+  <img src="https://github.com/mohid525/mohid525/blob/main/github-header-banner(1).png" alt="GitHub Header Banner" />
 </p>
 
 
