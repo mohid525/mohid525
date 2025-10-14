@@ -1,7 +1,8 @@
 <!-- 💙 All-Blue Gradient Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20Mohid's%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0:001f3f,40:005fbf,80:339CFF,100:66B2FF" alt="Blue Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20Mohid's%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0:00cc44,50:00ff99,100:b3ffcc" alt="Green Wave Banner" />
 </p>
+
 
 <div align="center">
 <h1 align="center">
