@@ -1,4 +1,7 @@
 <!-- 💙 All-Blue Gradient Welcome Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20Mohid's%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0:000000,40:1a1a1a,70:333333,100:4d4d4d" alt="Dark Gradient Banner" />
+</p>
 
 
 
