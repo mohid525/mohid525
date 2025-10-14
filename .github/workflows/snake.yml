@@ -2,20 +2,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every 24 hours
-  workflow_dispatch:     # allows manual trigger
+    - cron: "0 0 * * *" # runs daily at midnight
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write  # <-- This allows pushing to the repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: mohid525   # <-- replace with your GitHub username
+          github_user_name: mohid525   # change to your GitHub username
           outputs: dist/github-snake.svg
 
       - name: Push generated snake to output branch
