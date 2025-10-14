@@ -118,11 +118,7 @@ Here are some of my notable projects:
 
 ---
 
-## 🐍 Mohid's Contribution Snake Game
 
-<p align="center">
-  <img src="https://github.com/mohid525/mohid525/blob/output/github-snake.svg" alt="snake gif" />
-</p>
 
 
   
