@@ -31,8 +31,7 @@ Email Me ✉️ **saeedmohid9@gmail.com** For Collaboration/Project or Anything 
 ## About Me:
 - 🎓 **Full Name:** Muhammad Mohid
 - 🏛️ **University:** Punjab University College of Information Technology (PUCIT - FCIT)
-- 📚 **Department:** BS Data Science
-- 🎖️ PUAN Member & U.S. Access Program Alumnus  
+- 📚 **Department:** BS Data Science 
 - 📊 Passionate about **Data Visualization & Analytics**  
 - 🎨 Data Science enthusiast who loves turning raw data into meaningful insights
 - 🧠 Always learning something new in tech and exploring innovative solutions
@@ -118,11 +117,12 @@ Here are some of my notable projects:
 
 ---
 
-## 🐍 Mohid's Contribution Snake Game:
+## 🐍 Mohid's Contribution Snake Game
 
-<p align="center"> 
-<img src="https://github.com/m/mohid525/blob/output/github-snake.svg" alt="snake gif" />
+<p align="center">
+  <img src="https://github.com/mohid525/mohid525/blob/output/github-snake.svg" alt="snake gif" />
 </p>
+
   
 ---
 
