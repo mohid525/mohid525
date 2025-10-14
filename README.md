@@ -97,13 +97,12 @@ Here are some of my notable projects:
 
 ## 🎯 My Goals:
 
-- [x] Learn Python for Data Science
-- [x] Master Data Visualization with Power BI
-- [x] Complete U.S. Access Program
+- [ ] Learn Python for Data Science
+- [ ] Master Data Visualization with Power BI
 - [ ] Build 10+ Data Science projects
 - [ ] Contribute to open-source projects
 - [ ] Learn Machine Learning and AI
-- [x] Get internship in Data Science field
+- [ ] Get internship in Data Science field
 - [ ] Master advanced analytics techniques
 
 ---
